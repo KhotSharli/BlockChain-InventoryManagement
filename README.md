@@ -24,3 +24,7 @@ EthData is a blockchain-based inventory management system designed to address ch
 - MetaMask browser extension
 - Hardhat
 - An Ethereum network (local Hardhat node or testnet like Rinkeby)
+
+### Architecture Diagram
+![image](https://github.com/user-attachments/assets/432d8132-cf24-49db-9278-e84c0e4dbc87)
+
